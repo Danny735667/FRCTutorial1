@@ -1,9 +1,12 @@
 public class Lab1 {
     public static void main(String[] args) {
 
-        double x =  2.00 * 4.00 / 2;
+        int x = 2;
+        int y = 5;
 
-        System.out.println(x);
+        int sum = x + y;
+
+        System.out.println(sum);
 
 
 
